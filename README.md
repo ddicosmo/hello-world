@@ -63,5 +63,5 @@
 - :purple_heart: **Personal Interest:** Programming, History, Aeronautics
 
 <p align="center">
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md" alt="Hits">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fsora70david%2Fsora70david%2Fblob%2Fmaster%2FREADME.md" alt="Hits">
 </p>
