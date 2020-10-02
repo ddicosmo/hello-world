@@ -35,6 +35,10 @@
 
 </code> <code><img title="ROBOT" height="20" src="https://raw.robotframework.org"></code>
 
+#### CI/CD
+
+</code> <code><img title="Jenkins" height="20" src="https://www.jenkins.io/g"></code>
+
 
 #### Tools
 
