@@ -45,7 +45,7 @@
 
 #### Project Management Tools
 
-</code> <code><img title="JIRA" height="20" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38823/preview.svg"></code> <code><img title="Toggle" height="20" src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/83f14afb-dbba-4ec4-9de5-279404102e11/icon/ff12a1a6-8a10-4c75-8ee2-9f610d10bf51"></code>
+</code> <code><img title="JIRA" height="20" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38823/preview.svg"></code>
 
 
 </p>
