@@ -26,7 +26,7 @@
 
 #### Database
 
-</code> <code><img title="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img title="PostgreSQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> <code><img title="SQLite" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
+</code> <code><img title="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> </code> <code><img title="SQLite" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
 
 #### Frameworks
 
@@ -36,18 +36,16 @@
 
 </code> <code><img title="Jenkins" height="20" src="https://www.jenkins.io/g"></code>
 
-
 #### Tools
 
 </code> <code><img title="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 </code> <code><img title="git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</code> <code><img title="vs-code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </code> <code><img title="Jupyter Notebook"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
 </code> <code><img title="Pycharm" height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
 
 #### Project Management Tools
 
-<code><img title="Trello" height="20" src="https://image.flaticon.com/icons/svg/2762/2762537.svg"></code> <code><img title="JIRA" height="20" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38823/preview.svg"></code> <code><img title="Toggle" height="20" src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/83f14afb-dbba-4ec4-9de5-279404102e11/icon/ff12a1a6-8a10-4c75-8ee2-9f610d10bf51"></code>
+</code> <code><img title="JIRA" height="20" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38823/preview.svg"></code> <code><img title="Toggle" height="20" src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/83f14afb-dbba-4ec4-9de5-279404102e11/icon/ff12a1a6-8a10-4c75-8ee2-9f610d10bf51"></code>
 
 
 </p>
