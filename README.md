@@ -10,8 +10,8 @@
   <img alt="sora70david-Stackoverflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width="30" height="30" >
   </a>
 
-  <a href="https://twitter.com/severuscnell" target="_blank">
-    <img alt="DiCosmo-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
+  <a href="https://twitter.com/ddicosmo70" target="_blank">
+    <img alt="ddicosmo70-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
   </a>
 </p>
 
