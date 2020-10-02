@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://stackoverflow.com/u/10252307" target="_blank">
-  <img alt="Tushar-Stackoverflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width="30" height="30" >
+  <img alt="sora70david-Stackoverflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width="30" height="30" >
   </a>
 
   <a href="https://twitter.com/severuscnell" target="_blank">
