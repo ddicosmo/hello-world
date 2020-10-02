@@ -38,7 +38,11 @@
 
 #### Tools
 
-</code> <code><img title="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> <code><img title="git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img title="vs-code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> <code><img title="Jupyter Notebook"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code> <code><img title="Pycharm" height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
+</code> <code><img title="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+</code> <code><img title="git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</code> <code><img title="vs-code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+</code> <code><img title="Jupyter Notebook"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+</code> <code><img title="Pycharm" height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
 
 #### Project Management Tools
 
