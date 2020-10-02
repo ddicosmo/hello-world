@@ -45,13 +45,14 @@
 
 #### Project Management Tools
 
-</code> <code><img title="JIRA" height="20" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38823/preview.svg">
+</code> <code><img title="JIRA" height="20" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38823/preview.svg"></code>
+
 
 </p>
 
 ---
 
-:sparkles: **Facts you might be wondering about**
+**Facts you might be wondering about**
 
 - 🔭 **Currently working on:** Python, ROBOT, Jenkins
 - ⚡ **Getting better at:** Python
