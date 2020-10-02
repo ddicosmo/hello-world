@@ -33,7 +33,7 @@
 
 #### Frameworks
 
-</code> <code><img title="ROBOT" height="20" src="https://robotframework.org"></code>
+</code> <code><img title="ROBOT" height="20" src="https://raw.robotframework.org"></code>
 
 
 #### Tools
@@ -54,7 +54,6 @@
 - 🔭 **Currently working on:** Python, ROBOT, Jenkins
 - ⚡ **Getting better at:** Python
 - 💬 **Ask me about:** Computer Networking, IPTV, IP Multicast
-- :coffee: **Learn more about me**: Have a ride on [darkprinx.xyz](https://darkprinx.xyz)
 - 📫 **How to reach me:** knock! knock! at ddicosmo70@gmail.com
 - :purple_heart: **Personal Interest:** Programming, History, Aeronautics
 
